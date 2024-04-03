@@ -25,12 +25,8 @@ public class Main {
         //inizializzo l'array dei books
         Book[] books = new Book[booksNumber];
 
-        //dichiaro un flag che mi aiutera ad uscire dal while
-        boolean flag = false;
-
         //ciclo sulla lunghezza di books
         for (int i = 0; i < books.length; i++) {
-            flag = false;
             String titolo = null;
             int numeroPagine = 0;
             String autore = null;
@@ -63,7 +59,6 @@ public class Main {
 
                 Book newBook = new Book(titolo, numeroPagine, autore, editore);
                 books[i] = newBook;
-                flag = true;
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }

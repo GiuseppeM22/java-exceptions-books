@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32409501-e7db-4081-89e6-7ace81682ef0" name="Changes" comment="">
+    <list default="true" id="32409501-e7db-4081-89e6-7ace81682ef0" name="Changes" comment="Add Class Books &amp;&amp; Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/model/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -61,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1712147789500</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Class Books &amp;&amp; Main">
+      <option name="closed" value="true" />
+      <created>1712158137440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712158137440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Class Books &amp;&amp; Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Class Books &amp;&amp; Main" />
   </component>
 </project>

@@ -1,12 +1,6 @@
 Book 1
-Title: le rose
-Number of Pages: 345
-Author: giuse
-Publisher: mario
-
-Book 2
-Title: le piabte
-Number of Pages: 3333
-Author: io
-Publisher: tu
+Title: asasd
+Number of Pages: 2
+Author: asds
+Publisher: asd
 
